@@ -1,3 +1,5 @@
+#Image Manipulation Tool
+
 This program serves as a tool to import, manipulate, and export images.
 
 This program supports text-based, script input, and graphical interaction. To select your prefered method of intereaction, simply pass one of the following arguments when running the program:
