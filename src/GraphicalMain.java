@@ -20,8 +20,7 @@ public class GraphicalMain {
    */
   public static void main(String[] args) throws IOException {
     Image blank = ImportUtil.createBlankImage();
-    Image shark = ImportUtil.importFile("bird.jpg");
-    Layer l = new Layer(shark, 1, "Layer1");
+    Layer l = new Layer(blank, 1, "Layer1");
     ArrayList<Layer> layers = new ArrayList<Layer>();
     layers.add(l);
     Image image = new LayeredImageImpl(layers);
