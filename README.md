@@ -1,4 +1,4 @@
-#Image Manipulation Tool
+# Image Manipulation Tool
 
 This program serves as a tool to import, manipulate, and export images.
 
